@@ -1,7 +1,7 @@
 ---
 title: Extreme Forcing
 layout: default
-navigation_weight: 1
+navigation_weight: 9
 ---
 # Extreme Forcing ( Spontaneous Combustion )
 
