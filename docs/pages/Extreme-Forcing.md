@@ -1,20 +1,28 @@
 ---
 title: Extreme Forcing
 layout: default
-navigation_weight: 9
+excerpt: We have to dynamically achieve an extremely rare fixed point of extreme forcing in order to trigger the Spark-O-Life ...
+hint: Are we at some type of fixed point so far away from equilibrium that we vigorously iterate through countless reaction cycles the primordial goal of which is to harvest the maximum amount of energy possible from the environment?
+repo: Shell-Lessons-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: template
 ---
-# Extreme Forcing ( Spontaneous Combustion )
+{% include toc.md %}
 
-We have to dynamically achieve ... an extremely rare **Fixed Point** of **Extreme Forcing** to trigger **Spontaneous Combustion** ie.) the "Spark" of Life
+## Spontaneous Combustion
 
-## Table O Contents
+> **Hint**. {{ page.hint }}
 
-- TOC
-{:toc}
-
-## Dissipation Driven Adaptation ( Creative Destruction )
+### The Spark-O-Life
 
 More to come ...
+
+## Dissipation Driven Adaptation
+
+More to come ...
+
+### Creative Destruction
 
 **Note**. See **Quanta Magazine**, ** Simons Foundation**
 
@@ -32,7 +40,7 @@ More to come ...
 
 ### The Rise of Entropy
 
-Are we at some type of **Fixed Point** far away from **Equilibrium** that vigorously iterates through countless reaction cycles the goal of which is to harvest the maximum amount of energy possible from the environment?
+More to come ...
 
 ## Information Processing
 
@@ -46,16 +54,16 @@ More to come ...
 
 As long as you can harvest energy (dollars) from your environment, order will spontaneously arise and self-tune.
 
-## Raw Code
+## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
-
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
+More to come ...
 
 ***
 
-**Source**: [Controversial New Theory Suggests Life Was Not A Fluke Of Biology - It Was Physics by Natalie Wolchover of Wired dot com and Katherine Taylor of Quanta dot com. Published by © 2017 Wired.com](https://www.wired.com/controversial-new-theory-suggests-life-wasnt-a-fluke-of-biologyit-was-physics){:target="_self"}
+**Note**. The above synopsis was derived from an articles written by Natalie Wolchover of Quanta Magazine dot org [[1](#NATALIEWOLCHOVER){:.red}].
+
+1. {:#NATALIEWOLCHOVER}[Controversial New Theory Suggests Life Was Not A Fluke Of Biology - It Was Physics by Natalie Wolchover of Quanta Magazine dot org, circa 2017](https://www.quantamagazine.org/first-support-for-a-physics-theory-of-life-20170726/){:title="Click to Visit the Controversial New Theory by Natalie Wolchover"}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}
