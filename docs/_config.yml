@@ -1,10 +1,10 @@
 # Site settings
 #
-# underscore Config dot yaml (_config.yml) template ver 11-11-2019
+# underscore Config dot yaml (_config.yml) template ver 03-21-2022
 #
 # Un-comment the theme for the `docs` folder [only] in satellite repos
 theme: "jekyll-theme-cayman"
-#
+# 
 # There is one main repository as of 11-11-19
 # repository: https://www.github.com/mminail/mminail.github.io
 #
@@ -30,7 +30,7 @@ author:
     twitter_username: "rwebaz"
 #
 # Set the North American default time zone for the repo
-timezone: "America/Phoenix"
+timezone: "America/Chicago"
 #
 # Exclude the default `README.md` file when rendering Jekyll
 exclude: ['README.md']
@@ -89,8 +89,8 @@ kramdown:
     input: "GFM"
     syntax_highlighter: rouge
     math_engine: "mathjax"
-    hard_wrap: "false"
-#
+    hard_wrap: false
+# 
 # Set the code for `Goodle Analytics`
 # Warning. Property `google_analytics` is not allowed
 google_analytics: [UA-44765001-42]
