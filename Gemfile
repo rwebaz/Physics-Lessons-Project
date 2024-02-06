@@ -1,4 +1,4 @@
-# 
+#
 # Gemfile ver 020624 Satellite Repo
 # 
 # frozen_string_literal: true
@@ -248,13 +248,14 @@ gem 'jekyll', '3.9.3'
 gem 'rubyzip', '2.0.0'
 #
 # github-pages, 175 requires activesupport, 429
+#
 # gem 'activesupport', '6.0.3.1'
 gem 'activesupport', '6.0.6.1'
 # 
 gem 'github-pages-health-check', '1.17.9'
 #
 gem 'github-pages', '228'
-#
+# 
 # Note. The `github-markdown` dependency is no longer
 # designated at the online GitHub Pages dependency chart
 # C=> https://pages.github.com/versions/
@@ -328,7 +329,6 @@ gem 'minima', '2.5.1'
 #gem 'nokogiri', '1.15.1
 gem 'nokogiri', '>= 1.16.2'
 # 
-#gem 'rouge', '3.23.0'
 gem 'rouge', '3.26.0'
 #
 gem 'safe_yaml', '1.0.5'
